@@ -1,0 +1,21 @@
+body{
+margin: 85px
+}
+h1{
+    margin: 10px;
+}
+.mobicon img{
+    width: auto;
+    height: 80px;
+}
+.background{
+    background-color: rgb(203, 158, 245);
+    height: 600px;
+}
+.background img{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 450px;
+  padding-top: 76px;
+}
